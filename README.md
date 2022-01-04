@@ -3,3 +3,6 @@ This Typing Speed Test is created using Python and TKinter library. This tests u
 Python: For back-end code
 TKinte Package: For Front-End Code
 Time Package: For tracking time taken to type the paragraph
+
+paragraph_text.py: Contains Paragraph topic and text
+main_typing: All functions to perform create and test typing speed
